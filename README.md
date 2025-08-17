@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there 👋, I'm <span style="color:#ff79c6;">niconico49</span>
+  Alpha has online, Code Name <span style="color:#ff79c6;">pysger</span>
 </h1>
 
 <p align="center">
