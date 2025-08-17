@@ -6,16 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=50FA7B&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Code%20with-%23FF79C6.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-%23F1FA8C.svg?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/Lifelong-Learner-%2350FA7B?style=for-the-badge" />
-</div>
-
----
-
 ## 🦋 About Me
 
 - 🌈 Passionate about <span style="color:#bd93f9;">technology</span> and <span style="color:#f1fa8c;">creativity</span>
