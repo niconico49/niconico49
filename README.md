@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=50FA7B&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
-## 🦋 About Me
+##  The Unscripted Destiny  ##
 
-- 🌈 Passionate about <span style="color:#bd93f9;">technology</span> and <span style="color:#f1fa8c;">creativity</span>
+- 🌈 Exploring about <span style="color:#bd93f9;">Crypto</span> and <span style="color:#f1fa8c;">Blockchain</span>
 - 💻 Always exploring <span style="color:#8be9fd;">new frameworks</span>
 - 🤝 Love collaborating in <span style="color:#ffb86c;">open source</span> projects
 - 🎨 Addicted to <span style="color:#ff5555;">beautiful code</span>
