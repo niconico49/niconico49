@@ -11,7 +11,7 @@
 - :sparkles:  Exploring <span style="color:#bd93f9;">Crypto</span> and <span style="color:#f1fa8c;">Blockchain</span>
 - 💻 Long Decentralized <span style="color:#8be9fd;">Short Centralized</span>
 - 🤝 Love collaborating in <span style="color:#ffb86c;">open source</span> projects
-- 🎨 Addicted to <span style="color:#ff5555;">beautiful code</span>
+- :coffee:  Coffee <span style="color:#ff5555;">made life better</span>
 
 ---
 
