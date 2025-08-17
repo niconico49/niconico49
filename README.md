@@ -36,17 +36,6 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niconico49&show_icons=true&theme=dracula&title_color=ff79c6&icon_color=8be9fd&text_color=f8f8f2&bg_color=282a36" alt="niconico49's GitHub stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niconico49&theme=dracula&background=282a36&border=ff79c6&ring=bd93f9" width="400"/>
-</div>
-
----
-
 ## 🌐 Find Me
 
 <p align="center">
