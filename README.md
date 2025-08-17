@@ -10,7 +10,7 @@
 
 - :sparkles:  Exploring <span style="color:#bd93f9;">Crypto</span> and <span style="color:#f1fa8c;">Blockchain</span>
 - 💻 Long Decentralized <span style="color:#8be9fd;">Short Centralized</span>
-- :feather:  Defi Farming and <span style="color:#ffb86c;">NFT collector</span> projects
+- :jigsaw:  Defi Farming and <span style="color:#ffb86c;">NFT collector</span> projects
 - :coffee:  Coffee <span style="color:#ff5555;">made life better</span>
 
 ---
